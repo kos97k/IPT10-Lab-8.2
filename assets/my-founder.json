@@ -1,0 +1,54 @@
+{
+    "name": "Barbara Yap Angeles",
+    "birth": {
+      "date": "December 4, 1907",
+      "event": "Her birth was considered a high event and a Yuletide thanksgiving celebration was held."
+    },
+    "childhood": {
+      "description": "Barbara was a charming infant who quickly grew into a lovable schoolgirl. She excelled in mathematics and languages and was content with her achievements without seeking public recognition.",
+      "achievements": [
+        "Mathematics Prowess",
+        "Language Proficiency"
+      ]
+    },
+    "education": {
+      "college": "Centro Escolar de Senoritas",
+      "graduation_year": "1930",
+      "degree": "Education",
+      "motivation": "To provide education to those with less in life but with potential for development and leadership."
+    },
+    "career": {
+      "dream": "Barbara envisioned an educational institution to uplift the academic outlook of those less fortunate.",
+      "initial_school": {
+        "name": "Angeles Academy",
+        "founded": "May 10, 1931",
+        "location": {
+          "building_site": "Former Lourdes Elementary School",
+          "current_site": "Dr. Clemente H. Dayrit Elementary School, behind the Angeles University Foundation"
+        },
+        "donated_lot": "The Dayrit family donated the lot on condition that it reverts back to them if the school discontinues."
+      },
+      "challenges": {
+        "issue": "Betrayal by trusted staff",
+        "result": "School closed in 1933 and the site was turned over to the government for a public elementary school."
+      },
+      "second_attempt": {
+        "school_name": "Angeles Institute of Technology",
+        "reestablished_date": "May 25, 1962",
+        "help": "Reestablished with the help of her family.",
+        "opening_day_incident": {
+          "event": "Angeles City public market was gutted by a fire.",
+          "impact": "Thousands of fire victims lost property and jobs."
+        },
+        "philanthropy": {
+          "free_tuition": "Offered free tuition and scholarships to fire victims.",
+          "impact": "Endeared Barbara and her husband Agustin to the community."
+        }
+      }
+    },
+    "legacy": {
+      "character": "Barbara was a woman of wisdom, undaunted by man's ingratitude, and committed to providing education.",
+      "resolve": "She maintained her dream of providing education to deserving students."
+    }
+  }
+  
